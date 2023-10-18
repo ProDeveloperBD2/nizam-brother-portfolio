@@ -48,6 +48,7 @@ nav ul li a:hover {
 }
 .single-into-img img {
     width: 85%;
+    transition-duration: 500ms;
 }
 .single-into-img img:hover {
     width: 100%;
