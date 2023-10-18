@@ -95,10 +95,11 @@ nav ul li a:hover {
 }
 .single-about-img img {
     width: 85%;
+    transition: 500ms;
 }
 .single-about-img img:hover {
     width: 100%;
-    transition-duration: 500ms;
+    transition: 500ms;
 }
 .single-about-text h1 {
     font-size: 50px;
